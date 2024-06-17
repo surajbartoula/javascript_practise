@@ -1,0 +1,2 @@
+Hello for javascript.
+This is the second line.
